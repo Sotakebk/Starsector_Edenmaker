@@ -1,0 +1,11 @@
+{
+    "id": "edenmaker",
+    "name": "Edenmaker",
+    "author": "Sotakebk",
+    "utility": "false",
+    "version": { "major":"0", "minor": "0", "patch": "0" },
+    "description": "Improve the sector one planet at a time.",
+    "gameVersion": "0.96a-RC10",
+    "jars":["jars/edenmaker.jar"],
+    "modPlugin":"com.edenmaker.EdenmakerModPlugin"
+}
