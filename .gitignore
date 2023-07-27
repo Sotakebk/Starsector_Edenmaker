@@ -149,4 +149,6 @@ gradle-app.setting
 
 # binaries output folder
 /jars/
+#intellij files
 /.idea/
+/.run/
